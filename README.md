@@ -1,3 +1,6 @@
+The following link provides access to a comprehensive worker time analysis report for the period of January 1st to 7th, 2014. This report highlights key trends in worked hours, including breakdowns by job category, geographical region, and the impact of work location (Remote, Hybrid, Onsite
+https://drive.google.com/drive/folders/1-X5AXMU2dT2Z9iWzq0CVuk4pHlR8j0lp?usp=sharing)
+
 # WORK-TIME-ANALYSIS-REPORT
 ![image](https://github.com/user-attachments/assets/efa625d2-e7fa-4ada-9ac4-5c2cdc28198d)
 **INTRODUCTION**
